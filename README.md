@@ -19,7 +19,7 @@ Fake UAC Prompt
     close any cmd windows you got open
     run main.vbs
     hide the folder (to not be sus)
-    ask parent/teacher to help
+    *simulate* asking parent/teacher to help, *in an educational setting to help others protect themselves from this*
     enjoy the admin cmd
 
 Bypass
